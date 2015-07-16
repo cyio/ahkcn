@@ -1,4 +1,6 @@
 [Autohotkey中文前哨](http://ahkcn.gitcafe.io/)
+仓库地址：[AHKCN/AHKCN - GitCafe](https://gitcafe.com/AHKCN/AHKCN)
+
 
 ### 问题
 - 以前sourceforge只是有点慢，刚刚发现被正在用的广告插件直接域名屏蔽
@@ -12,4 +14,3 @@
 ### 已知问题
 - 部分`#`开头的帮助索引链接，在gitcafe上会404。
 
-[AHKCN/AHKCN - GitCafe](https://gitcafe.com/AHKCN/AHKCN)
